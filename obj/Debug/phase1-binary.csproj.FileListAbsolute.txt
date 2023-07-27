@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\bin\Debug\phase1-binary.exe.config
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\bin\Debug\phase1-binary.exe
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\bin\Debug\phase1-binary.pdb
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\obj\Debug\phase1-binary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\obj\Debug\phase1-binary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\obj\Debug\phase1-binary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\obj\Debug\phase1-binary.exe
+C:\Users\Admin\source\repos\phase1-binary\phase1-binary\obj\Debug\phase1-binary.pdb
